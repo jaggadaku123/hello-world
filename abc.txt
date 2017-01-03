@@ -1,2 +1,3 @@
 It is abc.txt file.
 Now I am trying to do stashing.
+Now I am trying to do stashing from local.
